@@ -2,7 +2,7 @@
  * printf.h
  *
  *  Created on: Oct 20, 2020
- *      Author: ales.cep
+ *      Author: (professor) ales.cep
  *      Original file: core_cm4.h
  */
 
